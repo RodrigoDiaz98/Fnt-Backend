@@ -1,0 +1,13 @@
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Service/PacienteService.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Service/SolicitudService.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Reposoitory/HorarioRepository.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Reposoitory/SolicitudRepository.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/SolRecApplication.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Service/HorarioService.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Controller/HorarioController.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Controller/PacienteController.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Reposoitory/PacienteRepository.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Model/Paciente.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Controller/SolicitudController.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Model/Horario.java
+/home/yoyo/Fn-t-ISW-2020-1/Back/SolRec/src/main/java/Fnt/SolRec/Model/Solicitud.java
