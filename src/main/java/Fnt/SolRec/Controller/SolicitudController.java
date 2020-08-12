@@ -242,7 +242,7 @@ public class SolicitudController {
         if (!solicitud.isPresent() || solicitud.get().getEstado()!="Solicitado") {
             return ResponseEntity
             .status(HttpStatus.NOT_FOUND)
-            .body(solicitud.get());
+            .body(null);
         }
         Solicitud oldReserva = solicitud.get();
         ResponseEntity<List<Horario>> res = horarioService.revisarChoque(oldReserva);
